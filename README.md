@@ -33,6 +33,6 @@ cd my_rollup
 touch main.go
 ``` 
 
-**Open "winscp" connect your server, and follow this path** <code>/root/my_rollup</code>
+**Open "winscp" connect your server, and follow this path** <code>/root/my_rollup/main.go</code>
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/102254553/235294272-0c32678e-e5ad-4f7f-875a-de148b97808a.PNG)
