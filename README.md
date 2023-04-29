@@ -35,4 +35,4 @@ touch main.go
 
 ** Open "winscp" connect your server, and follow this path <code>/root/my_rollup</code>
 
-![Ekran Alıntısı](https://user-images.githubusercontent.com/102254553/235294226-2569502a-af3e-40f0-8ed7-42326349a4c0.PNG)
+![Ekran Alıntısı](https://user-images.githubusercontent.com/102254553/235294272-0c32678e-e5ad-4f7f-875a-de148b97808a.PNG)
