@@ -1,7 +1,7 @@
 # Sovereign-Rollup-Greetings
 Today, I'm gonna show how you can create a Greetings module on Sovereign Rollup with Python, This rollups will turn greetings words with three different foreign languages(Turkish,English,French)
 
-**Firstly, we start with system updates**
+<h2>Firstly, we start with system updates</h2>
 
 ```
 sudo apt update && sudo apt upgrade -y
