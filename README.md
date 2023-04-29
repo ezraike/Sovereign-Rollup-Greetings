@@ -31,7 +31,7 @@ go version
 mkdir my_rollup
 cd my_rollup
 touch main.go
-``` .
+``` 
 
 ** Open "winscp" connect your server, and follow this path <code>/root/my_rollup</code> **
 
