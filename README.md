@@ -33,5 +33,6 @@ cd my_rollup
 touch main.go
 ```
 
-** Open "winscp" connect your server, and follow this path <code>/root/my_rollup<code>
-  <img src="[http://url/to/img.png](https://www.hizliresim.com/p99ouq7)" alt="alt text" width="320" height="180">
+** Open "winscp" connect your server, and follow this path <code>/root/my_rollup</code>
+
+ <img src="[http://url/to/img.png](https://www.hizliresim.com/p99ouq7)" width="320" height="180">
