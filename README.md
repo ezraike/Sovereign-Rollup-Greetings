@@ -35,4 +35,4 @@ touch main.go
 
 ** Open "winscp" connect your server, and follow this path <code>/root/my_rollup</code>
 
- <img src="(https://www.hizliresim.com/p99ouq7)" width="320" height="180">
+  <img src="https://github.com/ezraike/Sovereign-Rollup-Greetings/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG" width="auto">
