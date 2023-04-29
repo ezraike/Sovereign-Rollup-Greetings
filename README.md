@@ -35,4 +35,4 @@ touch main.go
 
 ** Open "winscp" connect your server, and follow this path <code>/root/my_rollup</code>
 
-  <img src="https://github.com/ezraike/Sovereign-Rollup-Greetings/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG" width="auto">
+![Ekran Alıntısı](https://user-images.githubusercontent.com/102254553/235294226-2569502a-af3e-40f0-8ed7-42326349a4c0.PNG)
